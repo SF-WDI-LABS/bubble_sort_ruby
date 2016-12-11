@@ -105,6 +105,6 @@ When there is only one element (the first element) left in our unsorted list, it
 
 ###List is now sorted using Bubble Sort: [1,2,3,4,5,6]
 
-![](http://cdn2.crunchify.com/wp-content/uploads/2013/01/BubbleSort-Algorithm-Crunchify.jpg)
+![](https://media.giphy.com/media/3o7TKzJ47tuagHPyZq/source.gif)
 
 ###Now write your own bubble sort!
