@@ -9,11 +9,10 @@ def bubble_sort(arr)
       end
     end
   end
-
   arr
 end
 
-
+#another implementation
 # def bubble_sort(array)
 #       swapped = true
 #       length = array.length-1
@@ -33,3 +32,5 @@ end
 #       end
 #       return array
 # end
+
+#print bubble_sort([4,6,2,1,5,12,1,8]);
